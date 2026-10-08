@@ -1,0 +1,11 @@
+{
+  "name": "oracle-ai",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Integrated ORACLE AI decision layer",
+  "scripts": {
+    "test": "node server.js --test-mission",
+    "start": "node server.js"
+  },
+  "engines": { "node": ">=18" }
+}
